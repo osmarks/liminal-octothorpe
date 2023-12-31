@@ -1,0 +1,4 @@
+node_modules
+sbert/venv
+src/__pycache__
+config.json
